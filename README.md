@@ -5,7 +5,7 @@
 ## I'm a Full-Stack Developer and a Web Designer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love photography
 
 ### Connect with me:
